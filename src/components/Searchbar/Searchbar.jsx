@@ -7,7 +7,6 @@ import {
   Bar,
   Form,
   FormButton,
-  // FormButtonLabel,
   FormInput,
 } from './Searchbar.styled';
 
